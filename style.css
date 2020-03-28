@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    background-color: black;
+}
+
+body{
+    text-align: center;
+}
+
+.logo{
+    margin: 4rem;
+    border: 1px dashed white;
+}
+
+img{
+    text-align: center;
+    margin: 100px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
