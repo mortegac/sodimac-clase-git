@@ -1,1 +1,1 @@
-# sodimac-clase_git
+# sodimac-clase-git
